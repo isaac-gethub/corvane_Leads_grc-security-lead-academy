@@ -38,3 +38,11 @@ V0.4 ONLINE KNOWLEDGE DELIVERY
 - 75 online reading entries: 28 Word documents + 47 workbook instruction sets.
 - Approximate words served online: 72562.
 - Instructor/assessor/answer-key content excluded.
+
+V0.4.1 FIX
+- Embeds enriched course metadata and online reading content directly in app.js.
+- Fixes blank Online Lessons page.
+- Fixes blank How to Study area.
+- Fixes missing Start Here readings.
+- Fixes missing module/stage Read Online buttons.
+- Keeps reading.json as a source/fallback file.
