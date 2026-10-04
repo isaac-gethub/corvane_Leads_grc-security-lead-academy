@@ -32,3 +32,9 @@ V0.2 ADDITIONS
 - Source files remain protected; instructor-only files are never bundled into trainee app.
 
 V0.3: detailed raw assessment items and certification eligibility display added.
+
+V0.4 ONLINE KNOWLEDGE DELIVERY
+- Course Home, Continue Learning, Online Lessons, Print This Reading, Reference Library, and Exercises & Downloads added.
+- 75 online reading entries: 28 Word documents + 47 workbook instruction sets.
+- Approximate words served online: 72562.
+- Instructor/assessor/answer-key content excluded.
