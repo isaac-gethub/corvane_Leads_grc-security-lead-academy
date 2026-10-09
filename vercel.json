@@ -1,4 +1,5 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false
+  "redirects": [
+    { "source": "/(.*)", "destination": "https://tib-corvane-academy-app.vercel.app/?course=pm_to_grc_security_lead", "permanent": false }
+  ]
 }
